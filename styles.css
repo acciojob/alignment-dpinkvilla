@@ -1,14 +1,17 @@
 /*  your css code here. If applicable */
-h1{
-	text-align:center;
-}
+
 table{
-	width:750px;
-	height:20px;
+	
 	border:1px solid black;
 	Spacing:1px;
 	cell-padding:1px;
-	
+}
+table{
+	width:750px;
+	height:90px;
+}
+h1{
+	text-align:center;
 }
 #table-3 tr:nth-child(1){
 	background-color:green;
